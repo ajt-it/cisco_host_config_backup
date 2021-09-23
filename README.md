@@ -1,6 +1,6 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7%2B-green)
 
-![cisco ios](https://img.shields.io/badge/ciscoios%2B-yellow)
+![cisco ios](https://img.shields.io/badge/cisco-ios%2B-yellow)
 
 # cisco_host_config_backup
 Ce script réalise le backup de la configuration de vos équipements CISCO; il est écrit en python 2.7
