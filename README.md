@@ -18,9 +18,11 @@ La version la plus récente de 'Python' au moment de la rédaction est la '3.8'.
 Cependant, la version utilisée est "2.7"
 
 Procédez comme suit pour l'installation:
+
 ![1](https://user-images.githubusercontent.com/46109209/134434702-354572fd-8239-4ff1-ab76-139ce1db18b9.png)
 
 ![2](https://user-images.githubusercontent.com/46109209/134434712-5545b39e-0073-490b-b021-dd3a80c3f963.png)
+
 
 À présent, il faut déterminer l'emplacement du script et et des fichiers :
 " /home/gns3/Scripts/Python-Scripts/ "
