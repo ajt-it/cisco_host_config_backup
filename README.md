@@ -34,7 +34,8 @@ Procédez comme suit pour l'installation:
 
 ![3](https://user-images.githubusercontent.com/46109209/134435282-d4ee782a-5c9b-44bb-87f6-f8a4fbf1bcab.png)
 
-En "1" et "2", créee les fichiers 
+En "1" et "2", créer les fichiers.
+
 En "3", attribuer les droits 777 sur l'ensemble des fichiers. 
 
 N.B. IL NE FAUT JAMAIS DONNER TOUS LES DROITS AUX UTILISATEURS DU SYSTÈME.
