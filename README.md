@@ -20,7 +20,7 @@ Vous aurez besoin d'un accès Telnet sur les cibles, ainsi que d'un même "Usern
 
 Nous avons utilisé une machine linux Ubuntu 18.04. 
 La version la plus récente de 'Python' au moment de la rédaction est la '3.8'.
-Cependant, la version utilisée est "2.7"
+Cependant, la version utilisée est "Python 2.7"
 
 Procédez comme suit pour l'installation:
 
