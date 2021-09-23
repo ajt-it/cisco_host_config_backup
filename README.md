@@ -3,6 +3,11 @@
 # cisco_host_config_backup
 Ce script réalise le backup de la configuration de vos équipements CISCO; il est écrit en python 2.7
 
+Représentation de l'infrastructure :
+
+![Infra script backup cisco](https://user-images.githubusercontent.com/46109209/134438643-949ba2ee-628b-4adf-b86b-7f6d5bd26573.png)
+
+
 ## Compatibilité
  - :white_check_mark: Routeurs CISCO
  - :white_check_mark: Commutateurs CISCO (Layer 3)
