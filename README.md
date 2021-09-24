@@ -54,7 +54,8 @@ Avec, la commande suivante, lancez le script : " sudo ./cisco_backup.py "
 
 Sur la machine Ubuntu:
 
-![7](https://user-images.githubusercontent.com/46109209/134437064-78a0234e-98f2-40b4-a943-eacf932ef5be.png)
+![1](https://user-images.githubusercontent.com/46109209/134734354-72997202-acf6-4076-b659-40de7be1609a.png)
+![2](https://user-images.githubusercontent.com/46109209/134734389-e515a88c-9203-4e7b-a71f-e6a00ba71a7b.png)
 
 Sur le routeur:
 
