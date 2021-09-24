@@ -1,0 +1,4 @@
+
+1 - Python 2.7
+
+2 - Telenet (Same Username and Password on each host)
