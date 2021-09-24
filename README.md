@@ -1,7 +1,7 @@
 ![Python 2.7](https://img.shields.io/badge/Python-2.7%2B-green)      ![cisco ios](https://img.shields.io/badge/CISCO-IOS-yellow)      ![Licence GPL-3.0](https://img.shields.io/badge/Licence-GPL_3.0-red)
 
 # cisco_host_config_backup
-This script backs up the configuration of your CISCO equipments; it is written in python 2.7
+This script backups the configuration of your CISCO equipments; it is written in "Python 2.7".
 
 Infrastructure :
 
@@ -65,7 +65,7 @@ we enable the verbose mode (wich shows telnet actions on the host).
 
 ![6](https://user-images.githubusercontent.com/46109209/134437621-b79b86ed-aa1e-4b97-a1b1-e4102d4a35db.png)
 
-Location of 'backup':
+Backups location:
 
 ![8](https://user-images.githubusercontent.com/46109209/134438072-b11af136-e946-4bed-9618-ad429c5c2e2d.png)
 
