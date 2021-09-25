@@ -50,7 +50,9 @@ It is also possible to make the script executable with the command: "sudo chmod 
 
 On the Ubuntu machine:
 
-With the following command, run the script : " sudo ./cisco_backup.py "
+Find your way to where the script is located;
+
+... with the following command, run the script : " sudo ./cisco_backup.py "
 
 ![5](https://user-images.githubusercontent.com/46109209/134436693-836f6daf-782e-4f76-8fa8-9d83bba1b0bd.png)
 
