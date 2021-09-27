@@ -18,12 +18,12 @@ print " "
 password = getpass.getpass()
 print " "
 
-#set date and time
-now = datetime.datetime.now()
+#SET DATE & TIME
+currentTime = datetime.datetime.now()
 
 #PRINT FILES LOCATION
 cwd = os.getcwd()
-print("This script and all input files are located in : ") + cwd
+print("Current working directory (cwd) : ") + cwd
 
 def banner():
         cisco_backup = """\033[92m
@@ -92,8 +92,9 @@ for fline in f:
         #show output config and write file with prefix, date and time
 	output=tn.read_all()
         print (output)
-	filename = "%s_%.2i-%.2i-%i_%.2i-%.2i-%.2i" % (filename_prefix,now.day,now.month,now.year,now.hour,now.minute,now.second)
-
+#	filename = "%s_%.2i-%.2i-%i_%.2i-%.2i-%.2i" % (filename_prefix,now.day,now.month,now.year,now.hour,now.minute,now.second)
+#       filename = datetime.date.today().strftime("%B-%d-%Y")
+        filename = (filename_prefix + currentTime.strftime("%Y-%m-%d_%H:%M:%S"))
 	fp=open(filename,"a")
 	fp.write(output)
 	fp.close()
