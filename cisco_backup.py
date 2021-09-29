@@ -18,16 +18,15 @@ print " "
 password = getpass.getpass()
 print " "
 
-#set date and time
+#SET DATE & TIME
 currentTime = datetime.datetime.now()
 
-#backup_files_dir = "Backups_Diretory"+ currentTime.strftime("_%Y_%m_%d_%H_%M_%S")
+#OUTPUTS DIRECTORY & PATH
 backup_files_dir = "cisco-HOST-backup-dir"
 backup_files_dir_path = "/home/gns3/Scripts/Python-Scripts"
 dirPath = os.path.join(backup_files_dir_path,backup_files_dir)
-#os.mkdir(backup_files_dir)
 
-#PRINT FILES LOCATION
+#SCRIPT & INPUTS LOCATION
 cwd = os.getcwd()
 print("Current working directory : ") + cwd
 
