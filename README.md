@@ -42,8 +42,6 @@ In "3", we have chosen to assign the 777 rights on all the files.
 
 N.B. ALL RIGHTS MUST NEVER BE GIVEN TO USERS OF THE SYSTEM.
      A MORE RESTRICTIVE MANAGEMENT OF ACCESS RIGHTS AND AUTHORIZATIONS MUST BE CONSIDERED.
- 
-It is also possible to make the script executable with the command: "sudo chmod + x ./cisco_backup.py"
 
 
 ## Script execution process :
@@ -69,6 +67,8 @@ we enable the verbose mode (wich shows telnet actions on the host).
 
 Backups location:
 
-![8](https://user-images.githubusercontent.com/46109209/134438072-b11af136-e946-4bed-9618-ad429c5c2e2d.png)
+The script "outputs" are redirected to a directory created for this purpose.
+
+![fffff](https://user-images.githubusercontent.com/46109209/135239180-b71a5f27-6897-459a-90ca-50e0264d6c0c.png)
 
 
